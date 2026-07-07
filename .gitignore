@@ -15,3 +15,6 @@ __pycache__/
 
 # Python compiled files
 *.pyc
+
+# Environment variables
+.env
