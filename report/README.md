@@ -505,7 +505,7 @@ The methodologies and techniques applied throughout this analysis closely resemb
 
 Data Analytics • Data Science • Data Engineering
 
-GitHub Portfolio Project – SoyHenry Data Analytics Program
+GitHub Portfolio Project – SoyHenry Data Science Program
 
 ---
 
