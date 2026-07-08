@@ -58,26 +58,42 @@ The company wants to better understand:
 
 ```text
 restaurant-customer-analysis/
-
+│
+├── assets/
+│   ├── hero.png
+│   ├── workflow.png
+│   └── food_preferences.png
 │
 ├── data/
 │   ├── base_datos_restaurantes_USA_v2.csv
-│   └── customers_clean.csv
+│   ├── customers_clean.csv
+│   └── chicago_culture.csv
 │
 ├── notebooks/
 │   ├── 01_Advance_EDA.ipynb
 │   ├── 02_Advance_API_Yelp.ipynb
-│   └── 03_Advance_Business_Analysis.ipynb
-│   └── 04_wikipedia_scraping.ipynb
+│   ├── 03_Advance_Business_Analysis.ipynb
+│   └── 04_Advance_Wikipedia_Scraping.ipynb
 │
 ├── report/
-│   ├── images
-│   └── README.md
+│   ├── README.md
+│   └── images/
+│       ├── customer_distribution.png
+│       ├── socioeconomic_distribution.png
+│       ├── average_spending.png
+│       ├── visit_frequency_vs_spending.png
+│       ├── monthly_income_vs_spending.png
+│       ├── food_preferences.png
+│       ├── premium_memberships.png
+│       ├── premium_by_city.png
+│       ├── alcohol_consumption.png
+│       └── wikipedia_scraping.png
 │
 ├── scripts/
-│   ├── wikipedia_scraper.py
+│   └── wikipedia_scraper.py
 │
 ├── README.md
+├── LICENSE
 ├── requirements.txt
 └── .gitignore
 ```
