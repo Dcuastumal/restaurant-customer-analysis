@@ -68,6 +68,14 @@ restaurant-customer-analysis/
 │   ├── 01_Advance_EDA.ipynb
 │   ├── 02_Advance_API_Yelp.ipynb
 │   └── 03_Advance_Business_Analysis.ipynb
+│   └── 04_wikipedia_scraping.ipynb
+│
+├── report/
+│   ├── images
+│   └── README.md
+│
+├── scripts/
+│   ├── wikipedia_scraper.py
 │
 ├── README.md
 ├── requirements.txt
